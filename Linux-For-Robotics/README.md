@@ -1,5 +1,5 @@
 # Linux-For-Robotics #
-![Alt text]([https://github.com/Fouad-Smaoui/ROS-Projects/blob/main/Linux-For-Robotics/ROS_Linux.png)
+![My Image](ROS_Linux.png)
 This project contains various scripts to control a BB-8 robot using ROS (Robot Operating System). The scripts include functionality for moving the robot in different patterns such as squares, circles, and simple forward and backward motions. Additionally, there's a script for teleoperation using keyboard input.
 
 ## Project Structure ##
